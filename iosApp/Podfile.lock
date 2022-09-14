@@ -1,0 +1,37 @@
+PODS:
+  - Mimus (2.0.0)
+  - SnapshotTesting (1.9.0)
+  - SwiftFormat/CLI (0.47.13)
+  - SwiftLint (0.47.1)
+
+DEPENDENCIES:
+  - Mimus (from `https://github.com/mimus-swift/Mimus`, commit `fca9cd6ac22e08ac397c4ab4415fe849bd377cc8`)
+  - SnapshotTesting (~> 1.9.0)
+  - SwiftFormat/CLI (~> 0.47.11)
+  - SwiftLint (~> 0.47.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SnapshotTesting
+    - SwiftFormat
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  Mimus:
+    :commit: fca9cd6ac22e08ac397c4ab4415fe849bd377cc8
+    :git: https://github.com/mimus-swift/Mimus
+
+CHECKOUT OPTIONS:
+  Mimus:
+    :commit: fca9cd6ac22e08ac397c4ab4415fe849bd377cc8
+    :git: https://github.com/mimus-swift/Mimus
+
+SPEC CHECKSUMS:
+  Mimus: 6bc99e22c33574c8336487ab6caae44e014da54d
+  SnapshotTesting: 6141c48b6aa76ead61431ca665c14ab9a066c53b
+  SwiftFormat: 73573b89257437c550b03d934889725fbf8f75e5
+  SwiftLint: f80f1be7fa96d30e0aa68e58d45d4ea1ccaac519
+
+PODFILE CHECKSUM: 0e95d4392dfb264a2d70b8e4f7838ea8025747e9
+
+COCOAPODS: 1.11.3

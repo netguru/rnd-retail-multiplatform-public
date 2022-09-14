@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_new">new</string>
+
+    <string name="common_skip">Skip</string>
+    <string name="common_continue">Continue</string>
+    <string name="common_finish">Finish</string>
+
+    <string name="recently_viewed">Recently viewed</string>
+    <string name="recommended">Recommended</string>
+    <string name="no_matching_products">No matching products</string>
+    <string name="onboarding_title_1">Furniture Mobile App</string>
+    <string name="onboarding_message_1">To make your life easier by allowing you to order modern and clean furnitures online</string>
+    <string name="onboarding_title_2">Find the quality furniture for your apartment</string>
+    <string name="onboarding_message_2"> We have more than 50.000 unique products  </string>
+    <string name="onboarding_title_3">Discover the best modern furniture  brands</string>
+    <string name="onboarding_message_3">Start exploring now</string>
+
+    <string name="desc_onboarding_image">Big grey wall clock with golden elements</string>
+    <string name="desc_search">Search</string>
+    <string name="desc_product_preview">Product preview</string>
+    <string name="desc_home">Home</string>
+    <string name="desc_cart">Shopping cart</string>
+    <string name="desc_browser">Furniture browser</string>
+    <string name="desc_profile">User profile</string>
+    <string name="desc_menu">Side menu</string>
+    <string name="desc_notifications">Notifications</string>
+    <string name="desc_close_customization">Close the customization panel</string>
+
+    <string name="error_amount_zero">Cannot select lass than zero items</string>
+    <string name="error_amount_stock">Cannot select more items than there are in stock</string>
+
+    <string name="details_review">Reviews</string>
+    <string name="details_add_product">Add one product</string>
+    <string name="details_remove_product">Remove one product</string>
+    <string name="details_add_to_cart">Add to cart</string>
+    <string name="details_description">Description</string>
+    <string name="details_ar_view">AR view</string>
+    <string name="details_customize">Customize</string>
+    <string name="details_posts">Posts about this product:</string>
+    <string name="details_see_all">See all</string>
+
+    <string name="customization_title">Customize your product</string>
+    <string name="customization_reset">Reset (%d)</string>
+    <string name="customization_fabric">Fabric</string>
+    <string name="customization_wood">Wood type</string>
+    <string name="customization_size">Size</string>
+
+    <string name="ar_onboarding_step_1">Move your device slowly from side to side to scan the surface</string>
+    <string name="ar_onboarding_step_2">Tap to place the product</string>
+    <string name="ar_onboarding_step_3">Tap on the object to select it</string>
+    <string name="ar_onboarding_step_4">Drag the product around the surface to move it around</string>
+    <string name="ar_onboarding_step_5">Use two fingers to rotate the product</string>
+    <string name="ar_onboarding_step_6">Great! You are good to go!</string>
+</resources>

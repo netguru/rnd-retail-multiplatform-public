@@ -1,0 +1,11 @@
+xcassets:
+  - inputs: iosApp/Resources/Assets.xcassets
+    outputs:
+      templateName: swift5
+      output: iosApp/Resources/Assets.swift
+  - inputs: iosApp/Resources/Colors.xcassets
+    outputs:
+      templateName: swift5
+      output: iosApp/Resources/Colors.swift
+      params:
+        enumName: Colors

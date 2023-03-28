@@ -8,6 +8,8 @@ App demonstrating KMM solutions in an eCommerce furniture setting, with shared r
 
   <br/><em>Brought with</em> &nbsp;❤️ <em>by</em> &nbsp; <a href="https://www.netguru.com"><img align="center" alt="Netguru logo" src="https://user-images.githubusercontent.com/43965151/188132449-b5774acd-4a88-4156-b82d-553a1993811e.png" width='30'/></a>
   
+  Read more about the 2-year reserach on our blog: <a href="https://www.netguru.com/blog/developing-ecommerce-app-kotlin-multiplatform">Developing an Ecommerce App in Kotlin Multiplatform: A Use Case</a>
+  
   <img alt="Promo1" src="https://user-images.githubusercontent.com/43965151/188124996-f359edd6-33af-4a79-a74e-a5f7499014b4.png" height='549' width='260'/>
   <img alt="Promo2" src="https://user-images.githubusercontent.com/43965151/188125059-89eec80e-775d-42e4-aab1-b974e4e9ef61.png" height='549' width='260'/>
   <img alt="Promo3" src="https://user-images.githubusercontent.com/43965151/188125102-43a4af30-274f-4bff-8f5e-490d1ca0df35.png" height='549' width='260'/>
